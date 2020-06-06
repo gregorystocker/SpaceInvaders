@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1589314304 source:c:\users\grego\onedrive\documents\c++\spaceinvaders\bullett.cpp
+	<iostream>
+	"bullett.h"
+
+1589314301 c:\users\grego\onedrive\documents\c++\spaceinvaders\bullett.h
+	<iostream>
+
+1589314297 source:c:\users\grego\onedrive\documents\c++\spaceinvaders\map.cpp
+	"map.h"
+	"space.h"
+	<string>
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"Player.h"
+
+1589314294 c:\users\grego\onedrive\documents\c++\spaceinvaders\map.h
+	"space.h"
+	"player.h"
+	<iostream>
+
+1589314280 c:\users\grego\onedrive\documents\c++\spaceinvaders\space.h
+	<iostream>
+	"bullett.h"
+
+1589314286 c:\users\grego\onedrive\documents\c++\spaceinvaders\player.h
+	"bullett.h"
+
+1589314290 source:c:\users\grego\onedrive\documents\c++\spaceinvaders\player.cpp
+	<conio.h>
+	<iostream>
+	<cassert>
+	"player.h"
+	"bullett.h"
+
+1589314284 source:c:\users\grego\onedrive\documents\c++\spaceinvaders\space.cpp
+	<iostream>
+	"space.h"
+	<cassert>
+	<stdlib.h>
+	<time.h>
+
+1589314550 source:c:\users\grego\onedrive\documents\c++\spaceinvaders\testdriver.cpp
+	<iostream>
+	"space.h"
+	"bullett.h"
+	"map.h"
+	<stdlib.h>
+	"player.h"
+	"conio.h"
+
